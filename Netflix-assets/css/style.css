@@ -5,3 +5,10 @@ header div i, header div img{
 .logo{
     width: 100px;
 }
+.avatar{
+    width: 100px;
+}
+.hr1{
+    width: 70%;
+    margin-left: 20%;
+}
